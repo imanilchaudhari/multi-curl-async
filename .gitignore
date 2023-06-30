@@ -1,0 +1,8 @@
+# vscode project files
+.vscode
+
+# composer vendor dir
+vendor/
+
+# environment file
+.env

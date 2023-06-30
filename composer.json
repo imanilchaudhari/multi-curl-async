@@ -1,0 +1,15 @@
+{
+    "name": "anil/demo",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anil Chaudhari",
+            "email": "imanilchaudhari@gmail.com"
+        }
+    ],
+    "require": {}
+}
